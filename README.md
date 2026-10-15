@@ -1,29 +1,39 @@
 # free-game
 
-FULL GAMES LIST HERE ENJOY!
-BO1 Zombies: vel.gg/boiz
-Moon: moon-zombies.pages.dev
-Kino der Toten: kino-der-toten.pages.dev
-BO3 Cheese Cube: cheese-cube.pages.dev
-Black Ops 2: vibeslops.luckeysystems.com
-Modern Warfare 2: ovz-game-production.up.railway.app
-Skate 3: skate.aaddpp.lol
-Skate Rust: global-terror.net
-CS Surf: surfd.net
-Halo CE: mitchellhynes.com/halo
-Halo CE mobile: hcemobile.com
-PES 6: pes6.optijuegos.net
-GTA 5: web.archive.org/web/2026100605...
-GTA Vice City: joncodeofficial.github.io/gta-vice-city-...
-The Simpsons: Hit & Run: shar-wasm.cjoseph.workers.dev/?skipmovie
-Quake 1: q1.pieter.com
-Quake 2: q2.pieter.com
-Quake 3: q3.pieter.com
-Return to Castle Wolfenstein: rtcw.pieter.com
-Unreal Tournament: ut.pieter.com
-Half Life: pixelsuft.github.io/hl/
-Half Life / CS 1.6: x8bitrain.github.io/webXash/
-Diablo: johnimril.github.io/diablo_web/
-Hedgewars: webwars.link
-More GTA / Minecraft: wasmarcade.com/Fan ports. Some need your own game files. Skip anything that asks you to download a launcher.
-7:35 AM-Oct 8, 2026 247.8K Views
+A curated list of playable full games and fan ports available online. Links were collected from various sources — some projects are web ports, some require additional game files, and a few are archived. Use the links at your own discretion.
+
+## Full games list
+
+- BO1 Zombies — https://vel.gg/boiz
+- Moon — https://moon-zombies.pages.dev
+- Kino der Toten — https://kino-der-toten.pages.dev
+- BO3 Cheese Cube — https://cheese-cube.pages.dev
+- Black Ops 2 — https://vibeslops.luckeysystems.com
+- Modern Warfare 2 — https://ovz-game-production.up.railway.app
+- Skate 3 — https://skate.aaddpp.lol
+- Skate Rust — https://global-terror.net
+- CS Surf — https://surfd.net
+- Halo CE — https://mitchellhynes.com/halo
+- Halo CE mobile — https://hcemobile.com
+- PES 6 — https://pes6.optijuegos.net
+- GTA 5 — archived on the Wayback Machine (partial link: web.archive.org/web/2026100605...)
+- GTA Vice City — partial link: joncodeofficial.github.io/gta-vice-city-...
+- The Simpsons: Hit & Run — https://shar-wasm.cjoseph.workers.dev/?skipmovie
+- Quake 1 — https://q1.pieter.com
+- Quake 2 — https://q2.pieter.com
+- Quake 3 — https://q3.pieter.com
+- Return to Castle Wolfenstein — https://rtcw.pieter.com
+- Unreal Tournament — https://ut.pieter.com
+- Half Life — https://pixelsuft.github.io/hl/
+- Half Life / CS 1.6 — https://x8bitrain.github.io/webXash/
+- Diablo — https://johnimril.github.io/diablo_web/
+- Hedgewars — https://webwars.link
+
+## More ports
+
+- More GTA / Minecraft fan ports — https://wasmarcade.com/ (fan ports section). Some require your own game files. Avoid anything that asks you to download or run an external launcher.
+
+---
+
+_Last updated: Oct 8, 2026 — 7:35 AM_
+_Views: 247.8K_
