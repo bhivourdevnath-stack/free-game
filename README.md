@@ -35,5 +35,3 @@ A curated list of playable full games and fan ports available online. Links were
 
 ---
 
-_Last updated: Oct 8, 2026 — 7:35 AM_
-_Views: 247.8K_
