@@ -17,7 +17,7 @@ A curated list of playable full games and fan ports available online. Links were
 - Halo CE mobile — https://hcemobile.com
 - PES 6 — https://pes6.optijuegos.net
 - GTA 5 — archived on the Wayback Machine (partial link: web.archive.org/web/2026100605...)
-- GTA Vice City — partial link: joncodeofficial.github.io/gta-vice-city-...
+- GTA Vice City — https://joncodeofficial.github.io/gta-vice-city-wasm/
 - The Simpsons: Hit & Run — https://shar-wasm.cjoseph.workers.dev/?skipmovie
 - Quake 1 — https://q1.pieter.com
 - Quake 2 — https://q2.pieter.com
